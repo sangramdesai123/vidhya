@@ -1,0 +1,44 @@
+.info{
+	padding: 15px;
+	margin-bottom: 10px;
+	border: solid 1px grey;
+	border-radius: 10px;
+	background-color: white;
+}
+.symptoms{
+	padding: 15px;
+	margin-bottom: 10px;
+	border: solid 1px grey;
+	border-radius: 10px;
+	background-color: white;
+}
+.result{
+	padding: 15px;
+	margin-bottom: 10px;
+	border: solid 1px grey;
+	border-radius: 10px;
+	background-color: white;
+}
+.disclaimer{
+	padding: 15px;
+	margin-bottom: 10px;
+	border: solid 1px grey;
+	border-radius: 10px;
+	background-color: white;
+}
+.ok{
+	color: green;
+}
+.remove{
+	color: red;
+}
+#myProgress {
+  width: 100%;
+  background-color: #e2dddd;
+}
+
+#myBar {
+  width: 1%;
+  height: 20px;
+  background-color: green;
+}
